@@ -1,0 +1,55 @@
+
+
+/* header section */
+.hero-bg {
+   background: #FFFBF0;
+}
+
+nav img {
+   max-width: 220px;
+   height: 40px;
+}
+
+.custom-nav-link {
+   color: #3C3C3C;
+}
+
+.main-heading-color {
+   color: #FABE4C;
+}
+
+.custom-btn {
+   color: #fff;
+   background-image: linear-gradient(to bottom, #A4BC46, #85A019);
+   padding: 15px 30px;
+   outline: none;
+   border: none;
+   box-shadow: none;
+}
+
+.custom-btn:hover{
+   color: #fff;
+   outline: none;
+   border: none;
+   box-shadow: none;
+}
+.custom-btn:focus {
+   outline: none;
+   border: none;
+   box-shadow: none;
+}
+
+
+/* main section  */
+.img-bg {
+   background: #F1F1F1;
+   height: 300px;
+   margin: 10px;
+   padding: 20px;
+}
+
+.feature-img {
+   width: 78px;
+   height: 82px;
+   margin-right: 10px;
+}
